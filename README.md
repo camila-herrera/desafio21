@@ -1,3 +1,3 @@
-aun no entiendo como sevantar el deployer. lo siento.
+aun no entiendo como levantar el deployer. lo siento.
 saludos.
 CH
